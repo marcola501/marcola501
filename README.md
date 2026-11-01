@@ -1,16 +1,18 @@
-## Hi there 👋
+Olá! Eu sou o Marcos Augusto 👋
 
-<!--
-**marcola501/marcola501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack construindo soluções eficientes e sistemas web escaláveis. Atualmente cursando Técnico em Informática no IFS - Campus Propriá.
 
-Here are some ideas to get you started:
+🚀 **No que estou trabalhando:**
+- **EkosRenova:** Plataforma de sustentabilidade para o Baixo São Francisco.
+- **SaaS de Agendamento:** Automação de calendários com WhatsApp, Whisper e DeepSeek API.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Minha Stack:**
+- **Back-end:** Python, FastAPI, Flask, Django, SQL, SQLite
+- **Front-end:** React, JavaScript, HTML, CSS, Tailwind, Bootstrap
+- **Ferramentas:** Linux Ubuntu, Git, GitHub
+
+🏆 **Conquistas:**
+- Finalista/Fase 2 da Olimpíada Nacional de Inteligência Artificial (ONIA)
+- Participante do Desafio Liga Jovem com o projeto EkosRenova
+
+📫 **Como me encontrar:** [Link do LinkedIn] | [Seu Email]
